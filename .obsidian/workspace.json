@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "0caaccdce6b9d0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ef44ddd89a26e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c2fd4466f8df7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "תזה/שבוע 7/17-06-2026 יום תזה יום רביעי.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17-06-2026 יום תזה יום רביעי"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5326224fa8b2f0ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "deca149626854c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222083d2833b7440",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba0c0bd9b93865c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a17f7b0f2d0457f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36f6f228ab4b187d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bf8104a6fbc2460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f9f26c09b61377",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "תזה/שבוע 7/17-06-2026 יום תזה יום רביעי.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 17-06-2026 יום תזה יום רביעי"
+            }
+          },
+          {
+            "id": "ea86ca3d9f152ba7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ימי תזה/2026-04-29 יום תזה ראשון.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-29 יום תזה ראשון"
+            }
+          },
+          {
+            "id": "e931bb97403140a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47aef8a956ff9635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ימי תזה/2026-04-29 יום תזה ראשון.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-04-29 יום תזה ראשון"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8c2fd4466f8df7f1",
+  "lastOpenFiles": [
+    "תזה/שבוע 7/16-06-2026 יום תזה יום שלישי.md",
+    "תזה/שבוע 7/17-06-2026 יום תזה יום רביעי.md",
+    "הכשרה/פגישות ומשובים/אפיון תור לשיחות אוטומטיות.md",
+    "תזה/Untitled/Untitled",
+    "תזה/שבוע 7",
+    "הכשרה/פגישות ומשובים/חתך תזיסטים - סיכום פגישה.md",
+    "הכשרה/פגישות ומשובים/פאע טריפטו.md",
+    "הכשרה/פגישות ומשובים/שיחת משוב פרום.md",
+    "תזה/שבוע 6/09-06-2026 יום תזה.md",
+    "הכשרה/פא/פא אוהד ואליאב 08.06.2026.md",
+    "תזה/שבוע 6",
+    "הכשרה/פא/פא אוהד ואליאב 07.05.2026.md",
+    "תזה/שבוע 5/02-06-2026 יום תזה.md",
+    "פגישה עם עדי שריד.md",
+    "תזה/שבוע 5",
+    "תזה/שבוע 4/26-05-2026 יום תזה.md",
+    "תזה/שבוע 3/יום תזה 19-5-26.md",
+    "תזה/שבוע 2/05-05-2026 יום תזה שני.md",
+    "תזה/שבוע 1/2026-04-29 יום תזה ראשון.md",
+    "הכשרה/פא/פא אוהד ואליאב 28.05.2026.md",
+    "תזה/שבוע 4",
+    "תזה/שבוע 2/summary.md",
+    "תזה/שבוע 2/6-5-26 יום תזה שלישי.md",
+    "תזה/שבוע 2/plots/Pasted image 20260429154505.png",
+    "תזה/שבוע 2/plots/cifar10_all_methods_compare.png",
+    "תזה/שבוע 3",
+    "תזה/שבוע 1/Untitled",
+    "תזה/שבוע 2/plots/cifar10_b60_mean_accuracy_curves.png",
+    "תזה/שבוע 2/plots/cifar10_b60_final_accuracy_bar.png",
+    "תזה/שבוע 2/plots/cifar100_mean_accuracy_curves.png",
+    "תזה/שבוע 2/plots/cifar100_final_accuracy_bar.png",
+    "תזה/שבוע 2/plots/cifar10_b60_distance_metric_comparison.png",
+    "תזה/שבוע 2/plots/norm_ablation_l1.png",
+    "תזה/דברים לשיפור.md",
+    "תפקיד/הכנות לפגישה עם אופיר.md",
+    "תזה/שווה לקריאה/לקריאה.md",
+    "תזה/פגישות/פגישה 06.05.2026 עם דפנה.md",
+    "תזה/כלים לתזה/שימור ידע לתזה.md",
+    "תזה/שבוע 1",
+    "תזה/שבוע 2",
+    "תזה/שבוע 2/plots",
+    "תזה/פגישות/פגישה 29.04.2026 עם דפנה.md",
+    "לעבוד על.md",
+    "2026-04-29.md"
+  ]
+}
