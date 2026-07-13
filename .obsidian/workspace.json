@@ -98,7 +98,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -165,13 +165,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c2fd4466f8df7f1",
+  "active": "e8f9f26c09b61377",
   "lastOpenFiles": [
-    "תזה/שבוע 7/16-06-2026 יום תזה יום שלישי.md",
+    "פגישה עם עדי שריד.md",
     "תזה/שבוע 7/17-06-2026 יום תזה יום רביעי.md",
+    "תזה/שבוע 7/16-06-2026 יום תזה יום שלישי.md",
     "הכשרה/פגישות ומשובים/אפיון תור לשיחות אוטומטיות.md",
     "תזה/Untitled/Untitled",
     "תזה/שבוע 7",
@@ -183,7 +185,6 @@
     "תזה/שבוע 6",
     "הכשרה/פא/פא אוהד ואליאב 07.05.2026.md",
     "תזה/שבוע 5/02-06-2026 יום תזה.md",
-    "פגישה עם עדי שריד.md",
     "תזה/שבוע 5",
     "תזה/שבוע 4/26-05-2026 יום תזה.md",
     "תזה/שבוע 3/יום תזה 19-5-26.md",
